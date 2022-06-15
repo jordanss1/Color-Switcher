@@ -1,0 +1,27 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+	height: 650px;
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.div1 {
+	height: 100%;
+}
+
+.div1 select {
+	width: 130px;
+}
+
+.row1 {
+	width: 100%;
+}
+
+/*@media screen and (max-width: 480px) {
+	#colors {
+		width: 75%;
+	}
+}
+
